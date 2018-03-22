@@ -6,7 +6,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//this is step 10 of lab 7...
+//i am adding a comment from the master branch...
 namespace Lab2
 {
     public class Game
@@ -18,6 +19,8 @@ namespace Lab2
         public string Score1 { get; set; }
 
         public string Score2 { get; set; }
+        //this is step 11 in lab 7...
+        //this comment was added from the master branch...
         //default constructor
         public Game()
         {
@@ -47,4 +50,4 @@ namespace Lab2
         //this comment was added in banch_1...
     }
 }
-//this is error
+//resovled
