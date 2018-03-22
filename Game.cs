@@ -35,7 +35,8 @@ namespace Lab2
 
             Score2 = score2;
         }
-
+        //this is step 10 in lab 7...
+        //i am adding this comment from branch_1
         public override string ToString()
         {
 
