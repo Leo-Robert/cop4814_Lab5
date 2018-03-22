@@ -50,3 +50,4 @@ namespace Lab2
         //this comment was added in banch_1...
     }
 }
+//this is error
