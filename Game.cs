@@ -19,6 +19,8 @@ namespace Lab2
         public string Score1 { get; set; }
 
         public string Score2 { get; set; }
+        //this is step 11 in lab 7...
+        //this comment was added from the master branch...
         //default constructor
         public Game()
         {
